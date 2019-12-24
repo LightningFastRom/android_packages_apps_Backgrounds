@@ -16,16 +16,11 @@
 <resources>
 
     <array name="wallpaper_built_in_drawables">
-        <item>@drawable/abstract_orderofchaos</item>
-        <item>@drawable/nature_ice</item>
         <item>@drawable/nature_nebula</item>
         <item>@drawable/nature_night</item>
-        <item>@drawable/urban_dayroad</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
-        <item>@string/wallpaper_built_in_orderofchaos</item>
-        <item>@string/wallpaper_built_in_ice</item>
         <item>@string/wallpaper_built_in_nebula</item>
         <item>@string/wallpaper_built_in_night</item>
         <item>@string/wallpaper_built_in_sea</item>

@@ -22,6 +22,7 @@
         <item>@color/wallpaper_color_teal</item>
         <item>@color/wallpaper_color_cyan</item>
         <item>@color/wallpaper_color_blue</item>
+        <item>@color/wallpaper_color_indigo</item>
         <item>@color/wallpaper_color_purple</item>
         <item>@color/wallpaper_color_pink</item>
         <item>@color/wallpaper_color_red</item>
@@ -37,6 +38,7 @@
         <item>@string/wallpaper_mono_teal</item>
         <item>@string/wallpaper_mono_cyan</item>
         <item>@string/wallpaper_mono_blue</item>
+        <item>@string/wallpaper_mono_indigo</item>
         <item>@string/wallpaper_mono_purple</item>
         <item>@string/wallpaper_mono_pink</item>
         <item>@string/wallpaper_mono_red</item>
@@ -51,6 +53,7 @@
         <item>@drawable/gradient_iron</item>
         <item>@drawable/gradient_leaf</item>
         <item>@drawable/gradient_lemon</item>
+        <item>@drawable/gradient_indigo</item>
         <item>@drawable/gradient_neon</item>
         <item>@drawable/gradient_ocean</item>
         <item>@drawable/gradient_orange</item>
@@ -63,6 +66,7 @@
         <item>@string/wallpaper_gradient_iron</item>
         <item>@string/wallpaper_gradient_leaf</item>
         <item>@string/wallpaper_gradient_lemon</item>
+        <item>@string/wallpaper_gradient_indigo</item>
         <item>@string/wallpaper_gradient_neon</item>
         <item>@string/wallpaper_gradient_ocean</item>
         <item>@string/wallpaper_gradient_orange</item>

@@ -32,6 +32,7 @@
 
     <string name="wallpaper_mono_black">Black</string>
     <string name="wallpaper_mono_blue">Blue</string>
+	<string name="wallpaper_mono_indigo">Indigo</string>
     <string name="wallpaper_mono_brown">Brown</string>
     <string name="wallpaper_mono_cyan">Cyan</string>
     <string name="wallpaper_mono_green">Green</string>
@@ -64,6 +65,7 @@
     <string name="wallpaper_gradient_iron">Iron</string>
     <string name="wallpaper_gradient_leaf">Leaf</string>
     <string name="wallpaper_gradient_lemon">Lemon</string>
+    <string name="wallpaper_gradient_indigo">Indigo</string>
     <string name="wallpaper_gradient_neon">Neon</string>
     <string name="wallpaper_gradient_ocean">Ocean</string>
     <string name="wallpaper_gradient_orange">Orange</string>

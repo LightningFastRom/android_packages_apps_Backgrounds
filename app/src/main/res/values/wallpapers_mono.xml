@@ -17,6 +17,7 @@
 
     <color name="wallpaper_color_black">#000000</color>
     <color name="wallpaper_color_blue">#84B4C8</color>
+    <color name="wallpaper_color_indigo">#015598</color>
     <color name="wallpaper_color_brown">#DFC7C1</color>
     <color name="wallpaper_color_cyan">#97F2F3</color>
     <color name="wallpaper_color_green">#70AE98</color>

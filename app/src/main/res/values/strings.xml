@@ -47,16 +47,10 @@
     <!-- Built-in wallpaper names -->
     <eat-comment />
 
-    <string translatable="false" name="wallpaper_built_in_ink">Ink</string>
-    <string translatable="false" name="wallpaper_built_in_orderofchaos">Order of chaos</string>
-    <string translatable="false" name="wallpaper_built_in_spacestory">Space story</string>
-    <string translatable="false" name="wallpaper_built_in_ice">Ice</string>
     <string translatable="false" name="wallpaper_built_in_nebula">Nebula</string>
     <string translatable="false" name="wallpaper_built_in_night">Still night</string>
-    <string translatable="false" name="wallpaper_built_in_sea">Sea</string>
     <string translatable="false" name="wallpaper_built_in_riseup">Rise up</string>
-    <string translatable="false" name="wallpaper_built_in_dayroad">Day road</string>
-    <string translatable="false" name="wallpaper_built_in_nightroad">Night road</string>
+    <string translatable="false" name="wallpaper_built_in_space">Deep Space</string>
     <string translatable="false" name="wallpaper_built_in_system">Default</string>
 
     <!-- Gradient wallpaper names -->

@@ -67,4 +67,6 @@
     <string name="wallpaper_gradient_peach">Peach</string>
     <string name="wallpaper_gradient_plum">Plum</string>
     <string name="wallpaper_gradient_shine">Shine</string>
+    <string name="wallpaper_gradient_calm">Calm</string>
+	<string name="wallpaper_gradient_mango">Mango</string>
 </resources>

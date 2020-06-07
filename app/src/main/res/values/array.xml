@@ -60,6 +60,8 @@
         <item>@drawable/gradient_peach</item>
         <item>@drawable/gradient_plum</item>
         <item>@drawable/gradient_shine</item>
+        <item>@drawable/gradient_calm</item>
+        <item>@drawable/gradient_mango</item>
     </array>
 
     <string-array name="wallpaper_gradient_names">
@@ -73,5 +75,7 @@
         <item>@string/wallpaper_gradient_peach</item>
         <item>@string/wallpaper_gradient_plum</item>
         <item>@string/wallpaper_gradient_shine</item>
+        <item>@string/wallpaper_gradient_calm</item>
+        <item>@string/wallpaper_gradient_mango</item>
     </string-array>
 </resources>

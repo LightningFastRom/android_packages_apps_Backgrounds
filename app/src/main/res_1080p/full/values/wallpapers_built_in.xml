@@ -20,6 +20,7 @@
         <item>@drawable/nature_night</item>
         <item>@drawable/space_riseup</item>
         <item>@drawable/deep_space</item>
+        <item>@drawable/sunset_at_the_keys</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
@@ -27,5 +28,6 @@
         <item>@string/wallpaper_built_in_night</item>
         <item>@string/wallpaper_built_in_riseup</item>
         <item>@string/wallpaper_built_in_space</item>
+        <item>@string/wallpaper_built_in_sunset</item>
     </string-array>
 </resources>

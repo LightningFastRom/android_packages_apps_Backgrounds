@@ -51,6 +51,7 @@
     <string translatable="false" name="wallpaper_built_in_night">Still night</string>
     <string translatable="false" name="wallpaper_built_in_riseup">Rise up</string>
     <string translatable="false" name="wallpaper_built_in_space">Deep Space</string>
+    <string translatable="false" name="wallpaper_built_in_sunset">Sunset At The Keys</string>
     <string translatable="false" name="wallpaper_built_in_system">Default</string>
 
     <!-- Gradient wallpaper names -->

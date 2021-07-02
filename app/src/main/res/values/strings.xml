@@ -39,6 +39,7 @@
     <string name="wallpaper_mono_orange">Orange</string>
     <string name="wallpaper_mono_pink">Pink</string>
     <string name="wallpaper_mono_purple">Purple</string>
+    <string name="wallpaper_mono_eggplant">Eggplant</string>
     <string name="wallpaper_mono_red">Red</string>
     <string name="wallpaper_mono_teal">Teal</string>
     <string name="wallpaper_mono_white">White</string>
@@ -69,4 +70,5 @@
     <string name="wallpaper_gradient_shine">Shine</string>
     <string name="wallpaper_gradient_calm">Calm</string>
 	<string name="wallpaper_gradient_mango">Mango</string>
+	<string name="wallpaper_gradient_eggplant">Eggplant</string>
 </resources>

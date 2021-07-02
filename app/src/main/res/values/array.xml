@@ -24,6 +24,7 @@
         <item>@color/wallpaper_color_blue</item>
         <item>@color/wallpaper_color_indigo</item>
         <item>@color/wallpaper_color_purple</item>
+        <item>@color/wallpaper_color_eggplant</item>
         <item>@color/wallpaper_color_pink</item>
         <item>@color/wallpaper_color_red</item>
         <item>@color/wallpaper_color_orange</item>
@@ -40,6 +41,7 @@
         <item>@string/wallpaper_mono_blue</item>
         <item>@string/wallpaper_mono_indigo</item>
         <item>@string/wallpaper_mono_purple</item>
+        <item>@string/wallpaper_mono_eggplant</item>
         <item>@string/wallpaper_mono_pink</item>
         <item>@string/wallpaper_mono_red</item>
         <item>@string/wallpaper_mono_orange</item>
@@ -62,6 +64,7 @@
         <item>@drawable/gradient_shine</item>
         <item>@drawable/gradient_calm</item>
         <item>@drawable/gradient_mango</item>
+        <item>@drawable/gradient_eggplant</item>
     </array>
 
     <string-array name="wallpaper_gradient_names">
@@ -77,5 +80,6 @@
         <item>@string/wallpaper_gradient_shine</item>
         <item>@string/wallpaper_gradient_calm</item>
         <item>@string/wallpaper_gradient_mango</item>
+        <item>@string/wallpaper_gradient_eggplant</item>
     </string-array>
 </resources>
